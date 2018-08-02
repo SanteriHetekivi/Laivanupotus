@@ -1,0 +1,4 @@
+# pelikentan_sivu :n pituus voi vaihdella valilla 5 – 9:
+pelikentan_sivu: 7
+laivat: 5:1 4:1 3:1 2:1
+# edellinen tarkoittaa: pelikentalla 5:n pituisia laivoja 2 kpl, 4:n pituisia 3 kpl, 3:n pituisia 1 kpl ja 1:n pituisia 1 kpl.
